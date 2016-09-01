@@ -1,7 +1,7 @@
 # ConsoleApplication2
 This is my readMe
 
-Updating the readme
+Updating the ReadMe to have more content.
 
 ## Build Status
 [![Build Status](https://travis-ci.org/mmitrik/ConsoleApplication2.svg?branch=master)](https://travis-ci.org/mmitrik/ConsoleApplication2)
